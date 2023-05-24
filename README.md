@@ -11,7 +11,7 @@ O plugin permite que os jogadores escolham entre 2 e 8 chunks de renderização.
 # Compatibilidades:
 - FormAPI
 > *Nota: O plugin não possui dependência do plugin FormAPI, mas possui compatibilidade com o mesmo e ao utilizá-lo, melhora a acessibilidade do plugin.* 
-
+![Imagem](https://cdn.discordapp.com/attachments/1110986825671135413/1110986868067160094/Screenshot_20230519-000359_Minecraft.jpg)
 
 # Dependências:
 - Nenhuma.
